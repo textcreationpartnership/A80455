@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter from a Lincolne shire gentleman; sent to his friend in the city of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80455</idno>
+            <idno type="STC">Wing C6116</idno>
+            <idno type="STC">Thomason E1016_3</idno>
+            <idno type="STC">ESTC R208258</idno>
+            <idno type="EEBO-CITATION">99867222</idno>
+            <idno type="PROQUEST">99867222</idno>
+            <idno type="VID">168784</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168784)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1016[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter from a Lincolne shire gentleman; sent to his friend in the city of London.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Feb. 23 1659."; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168784:1" rendition="simple:additions"/>
+            <p>THE Copy of a Letter From a LINCOLNE Shire Gentleman; <hi>Sent to his Friend in the City of</hi> LONDON.</p>
+            <p>Printed 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168784:2"/>
+            <pb n="3" facs="tcp:168784:2"/>
+            <head>A Copy of a Letter from a <hi>Lincoln<g ref="char:EOLhyphen"/>ſhire</hi> Gentleman, ſent to his friend in the City.</head>
+            <head type="sub">Section <hi>I.</hi>
+            </head>
+            <opener>
+               <salute>Worthy Friend,</salute>
+            </opener>
+            <p>SInce my laſt (in a concurrence with the generall, if not unanimous Vote of this Nation) this County hath ſent up a Declaration (being awaked out of that dull Lethargick ſtupifaction, that had long ſeized their Spirits to a quick reſentment of their own condition:) To ſolemnize the approaching Funerals of the glory and happineſſe of this Nation, with their ſad Complaints, if timely remedies be not applied, which I ſhall not deſ<g ref="char:EOLhyphen"/>paire of (ſince as Phyſitians tell me, the ſenſe and know<g ref="char:EOLhyphen"/>ledge of the diſeaſe is a great advance towards health;) And that thoſe hidden charms, that lay wrapt up in the proſtitute name of Parliament, to bewitch us, hath loſt its force; even with me and others, that once adored that great <hi>Diana,</hi> the Craftſmen or Mechanicks of our times, ſet up even to the pulling down of Scepters, Laws, Religion
+<pb n="4" facs="tcp:168784:3"/>nay Parliaments themſelves, conſidered in their originall Rights and Conſtitutions; though my deſigne was no more at the taking up of Arms, then their pretences, even a pruning off of luxurious excreſcences in Church and State, not a digging up of the Vine; and in ſo much I am ſtill the ſame, though not in my Actings any longer, in Countenance of thoſe that departed from themſelves, Duties and Oathes; yet am I reſolved ever to oppoſe all exorbitances in State, Innovations in the Church, and invaſion of our Liberties I firſt engaged againſt; and in it agree, I think with all truly wiſe and honeſt Engliſhmen.</p>
+            <p>§. II. And I conceive, theſe Conſiderations, and the like, have animated theſe parts into generous Reſolu<g ref="char:EOLhyphen"/>tions, if they cannot Vindicate their Rights, no longer to betray them by their ſilence and Compliances; daring to die their Countries Martyrs, rather than not attempt their Duties, Reſolving with the <hi>Cantabrian</hi> to <hi>Auguſtus,</hi> though their goods of Fortune may by Tyranny and U<g ref="char:EOLhyphen"/>ſurpation be taken from them, they will be their own and Gods; and having diſcovered the great Impoſtures of the Mountebanks at <hi>Weſtminſter</hi>) will no longer be Chea<g ref="char:EOLhyphen"/>ted out of their deareſt Intereſts; ſeeing their pretences, how ſpecious ſo ever, are but a painted Flower upon a withered Stalk, a Devill in <hi>Samuels</hi> mantle: When under pretence of Religion, they let in Athieſm; and by abuſe of our Liberty, lay ſnares to enſlave us, turning our Laws and Charters into Arbitrary Votes <hi>(the Negative Voices, and ballancing Intereſts of King and Lords, being forced from us)</hi> yet by it they give us a holy advantage, in ſhewing us that in our preſent Condition, we enjoy rather an Aëry than reall being; when by a vapour, a breath, thoſe Senators may take away (ours, our Lives, Liberties and Religion at once.) And yet by it, they undermine, thoſe pillars that ſhould ſupport their own Houſes to Poſterity, and make Shackles for their Children to weare.</p>
+            <p>§. III. Nay, ſo highly inſolent is their Cruelty, as they force us to be inſtrumentall to our own ruines (by pay<g ref="char:EOLhyphen"/>ments to ſupport their Uſurpation, and to twiſt a Cord
+<pb n="5" facs="tcp:168784:3"/>to hang our ſelves) and are not onely acting, but enact<g ref="char:EOLhyphen"/>ing miſchief as Law, which ought to make Crimes not Vir<g ref="char:EOLhyphen"/>tue the object of its puniſhment; and to ſtand (as the Pin in the Ballance;) a middle thing between Supream Power and Common Right, which they yet deny us; in obſtru<g ref="char:EOLhyphen"/>cting our enjoyment of a <hi>Free Parliament,</hi> the onely pru<g ref="char:EOLhyphen"/>dentiall Remedie (under God) to compoſe our diſtra<g ref="char:EOLhyphen"/>ctions, unite our Affections, and concenter all Intereſts in a Conſciencious ſubmiſſion and obedience to lawfull Au<g ref="char:EOLhyphen"/>thority, the very Nerves, and Sinews, and Ligaments that can keep the body Politick in a happy combination at home, and make it both reverenced and feared abroad, open Trade, and ſecure (under God) all other bleſ<g ref="char:EOLhyphen"/>ſings.</p>
+            <p>§. IV. And therefore as your Cities Declaration, gave the firſt Invitation to other Counties to Declare; I hope you will ſtill continue fixt (as the Centre in the Circum<g ref="char:EOLhyphen"/>ference; however things moves in their viciſſitudes about you) in your Reſolves to ſtand for a <hi>Free</hi> and <hi>Full Parlia<g ref="char:EOLhyphen"/>ment</hi>
+            </p>
+            <p>§. V Which implies Freedome in Sitting from all Force; Freedome in Elections, to ſit (where the known ancient Laws reſtrains not;) and Freedome from all previous Oathes and Engagements, as the Eſſentials and Ele<g ref="char:EOLhyphen"/>ments, out of which it is Conſtituted, the Legiſlative Power (however it may regulate it ſelf, in its Actings) be<g ref="char:EOLhyphen"/>ing never to be bound with humane Cords; Nay, not by it ſelf, in that it may (nay ought) to unlooſe the knois it ties; when publick Intereſt and utility requires it: And therefore ſhould not be confined by any more high and ſa<g ref="char:EOLhyphen"/>cred bands; nor admit of diſcriminations of Perſons in law eligible, which are but the breaſts, that feeds and nou<g ref="char:EOLhyphen"/>riſh Diviſions, Diſtractions and Animoſities amongſt us.</p>
+            <p>§. VI. However ſince all humane law obliges Conſcience onely in things, which in their nature are indifferent and Arbitrary, and that by our Fundamental Conſtitution, eve<g ref="char:EOLhyphen"/>ry mans Conſent is therefore preſumed to concur (actual<g ref="char:EOLhyphen"/>ly or virtually in his Proxies) in thoſe laws he is to be
+<pb n="6" facs="tcp:168784:4"/>ſubmitted to (as may appear by the Petition of Right.) We all unanimouſly Reſolve no more Taxes, Exciſes, Cu<g ref="char:EOLhyphen"/>ſtoms ought by the preſent Dictators to be laid upon us; and therefore not to pay them, unleſſe charged by a <hi>Free Parliament,</hi> which we deſire may be inſinuated unto your Common Councel; who have yet carried themſelves with great ſhew of Gallantry, Prudence, and publick affection to the Kingdomes Settlement and Peace: That as we aim at one Port, we may ſteer by one Compaſs: And the bet<g ref="char:EOLhyphen"/>ter to take in all Intereſts,</p>
+            <p n="1">1. <hi>We ſhall deſire Indemnity to all that oppoſe not a</hi> Full <hi>and</hi> Free Parliament.</p>
+            <p n="2">2. <hi>Indulgence to all tender Conſciences, that ſeek Peace not Faction, with the Vindication of our Eſtabliſhed Religion from all its Oppoſers.</hi>
+            </p>
+            <p n="3">3. <hi>The Souldiers ſatisfaction in relation to their Arreares, and for the preſent, the Counties will reſolve (if your City concurre) vo<g ref="char:EOLhyphen"/>luntarily to raiſe</hi> 60000 l. <hi>a Month, and to pay it into the hands of their ſeveral Treaſurers; by them immediately to be paid to ſuch Regiments as the General and Army ſhall aſſigne to each County; (and this to continue till a Free Parliament take further care for them,) which will pay them fully for the future, and advance ſomething towards the Arreares, of thoſe that ſhall in this way witneſſe their good affection to this Nation; and redeem the prey out of the hands of thoſe Land-Pirates at</hi> Weſtminſter. <hi>Who all this while have made a gain of them and us;</hi>
+            </p>
+            <p>§. VII. In which we cannot doubt of my Lord General <hi>Monks</hi> concurrence, he is in all opinions, a perſon of ſo intire a worth (Though yet abuſed by the ſpecious preten<g ref="char:EOLhyphen"/>ſes of a ruling faction) when he ſindes the greateſt part by much, (if not all) of the Kingdome deſire it as the one<g ref="char:EOLhyphen"/>ly means to compoſe us at home, and ſecure us from ma<g ref="char:EOLhyphen"/>ny, now united and powerfull enemies abroad, eſpecially if he will but conſider, how often this pretended Rump of a Parliament, that poyſons all with their Helliſh Fumes hath been diſſolved, as</p>
+            <p n="1">1. <hi>By the Kings death (as all great Lawyers will agree) who was the moſt eſſentiall part of it; his aſſent onely giving a being and animation to all Lawes.</hi>
+            </p>
+            <pb n="7" facs="tcp:168784:4"/>
+            <p n="2">2. <hi>As the Bill it ſelf, (by which they pretend to diſinherit the</hi> Primo-Geniture <hi>of the Trienniall Act.</hi>) <hi>Referrs to the Parlia<g ref="char:EOLhyphen"/>ment as then compoſed of three Estates, when one diſsentinge, no Act could paſs.</hi>
+            </p>
+            <p n="3">3. <hi>By their ſeverall diſſolutions and ſubmiſſions to other called Parliaments, and by moſt of their ſittings as members in them.</hi>
+            </p>
+            <p n="4">4. <hi>By the Counties new Elections, which was an actuall revoca<g ref="char:EOLhyphen"/>tion of their Truſt, and Power</hi>
+            </p>
+            <p n="5">5. <hi>By the forfeiture of their rights to ſit as a houſe of Commons in the forcihle expulſion of the beſt part of their members.</hi>
+            </p>
+            <p n="6">6. <hi>By their breach of Truſt, their Commiſſions (as delegated by their elections) being onely to adviſe with the King in</hi> (rebus arduis <hi>weighty affaires, (not to deſtroy him) as appears by the Writts of Summons; And all this, with the violation, of their faith both to God and man; Wilfull breaches of their Declarations, Oaths, and Covenant; So as a perſon of Generall</hi> Moncks <hi>worth and honour can never, upon digeſted thoughts, eſpouſe their cauſe and crimes by his protecting them, however he is a perſon of too much Piety and prudence; to ingage us in a civill and forraign Warr at once (where ſo faire and Juſt an expedient, as a Free and full Parliament to be called by the Trienniall Act is propoſed) for the skirts and ragg of an exſpired Parliament, which would botch up a garment onely for their own wearing, leaving us ſtript and naked by depriving us of all our Rights, and all this for the maintaining their guilt and intereſt, who care not to prevent, the rack of our ſhip of ſtate, wherein all are imbarked, if they may but ſtand upon land themſelves; and therefore be not diſcouraged by what he hath yet appeared, but let us do our duties, and leave the event to God; which is the reſolution of,</hi>
+            </p>
+            <closer>
+               <signed>Your lately converted Servant.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
